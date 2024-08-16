@@ -56,4 +56,3 @@ Contributions to Nanograd are welcome! If you find any bugs or have suggestions 
 ## Disclaimer
 
 Nanograd is primarily intended for educational purposes and may not be suitable for production use. It lacks the performance optimizations and features of more mature autograd libraries.
-```
