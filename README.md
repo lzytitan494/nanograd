@@ -19,8 +19,7 @@ The `Value` class is the core building block of Nanograd. It encapsulates a nume
 **Example:**
 
 ```cpp
-#include "nanograd.h"
-
+// In the nanograd.cpp file
 int main() {
     Value a(2.0, "a");
     Value b(3.0, "b");
